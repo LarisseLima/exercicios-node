@@ -1,0 +1,25 @@
+{
+  "name": "exercicios-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exportar.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "lodash": "^4.17.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LarisseLima/exercicios-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LarisseLima/exercicios-node/issues"
+  },
+  "homepage": "https://github.com/LarisseLima/exercicios-node#readme"
+}
